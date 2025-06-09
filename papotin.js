@@ -13,3 +13,12 @@ button.style.backgroundColor='red'
 const productos3 = [mangos, platano, yautia, arroz].sort()
 
 console.log(productos)
+
+
+function sumar (suma1 , suma2){
+
+    const resultado = suma1 + suma2
+
+}
+
+sumar(resultado)
