@@ -7,3 +7,9 @@ const productos2 = productos.filter(function(palo){
         console.log("pera")
     }
 })
+const button = document.createElement('button');
+document.body.appendChild(button)
+button.style.backgroundColor='red'
+const productos3 = [mangos, platano, yautia, arroz].sort()
+
+console.log(productos)
